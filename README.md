@@ -1,4 +1,4 @@
-# Salve! Eu sou o Glauco Y. Sazaka
+# Salve! Eu sou o Glauco Sazaka
 
 <img align="center" src="https://icongr.am/devicon/android-original.svg?size=40" alt="Sazaka-Java" width="40" height="40"/> Trabalho como desenvolvedor Android, e
 tenho estudado React Native <img align="center" src="https://icongr.am/devicon/react-original.svg?size=40" alt="Sazaka-Java" width="40" height="40"/>
